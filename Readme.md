@@ -11,3 +11,7 @@ I changed the structure of the project to be run as Platformio project, because
 I'm working on my own development boards for both listed MCUs and this project is a good demonstration of kind of projects they would happily support
 
 ### Demo
+
+![esp8266](/doc/demo/VID_20211220_193314.gif)
+
+![esp32](/doc/demo/VID_20211220_193417.gif)
