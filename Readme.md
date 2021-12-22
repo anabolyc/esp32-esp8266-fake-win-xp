@@ -12,6 +12,10 @@ I'm working on my own development boards for both listed MCUs and this project i
 
 ### Demo
 
+#### ESP8266
+
 ![esp8266](/doc/demo/VID_20211220_193314.gif)
+
+#### ESP32
 
 ![esp32](/doc/demo/VID_20211220_193417.gif)
